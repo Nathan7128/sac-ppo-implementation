@@ -6,8 +6,8 @@ These implementations were developed to solve the **Hopper-v5** continuous contr
 
 ## **👥 Authors**
 
-* **Nathan** (nathan7128)  
 * **Khalid El Bazi**
+* **Nathan Talbot**  
 
 ## **📝 Project Overview**
 
